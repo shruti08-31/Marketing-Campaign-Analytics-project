@@ -308,8 +308,11 @@ This portfolio project demonstrates the complete lifecycle of a real-world analy
 # Author
 
 **Shruti Prasad**
-
 Aspiring Data Analyst | Python | Power BI | SQL | Data Visualization | Business Analytics
+
+- GitHub: https://github.com/shruti08-31
+- LinkedIn: https://www.linkedin.com/in/shruti-prasad-35123636b/
+
 
 ---
 
