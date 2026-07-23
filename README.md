@@ -152,7 +152,7 @@ The processed dataset was imported into **Power BI** to create an interactive da
 
 ## Marketing Funnel
 
-![Marketing Funnel](03Images/marketing_funnel.png)
+![Marketing Funnel](marketing_funnel.png)
 
 ---
 
