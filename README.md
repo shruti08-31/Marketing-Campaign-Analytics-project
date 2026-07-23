@@ -133,53 +133,20 @@ The dataset was cleaned using Python by:
 
 ## Step 3 — Exploratory Data Analysis (EDA)
 
-Python libraries such as **Pandas**, **Matplotlib**, and **Seaborn** were used to analyze:
-
-- Age distribution
-- Job categories
-- Education levels
-- Marital status
-- Account balance
-- Contact methods
-- Campaign performance
-- Deposit subscriptions
-
----
-
-## Step 4 — Marketing Funnel Analysis
-
-Customer movement through different stages of the marketing campaign was analyzed to understand:
-
-- Customer reach
-- Customer engagement
-- Conversion performance
-- Campaign efficiency
-
----
-
-## Step 5 — Dashboard Development
-
-The processed dataset was imported into **Power BI** to create an interactive dashboard for monitoring key marketing KPIs and campaign performance.
-
----
-
-# 📊 Dashboard Preview
 
 ## Marketing Funnel
 
-![Marketing Funnel](Marketing_funnel.png)
+<p align="center">
+  <img src="03Images/marketing_funnel.png" width="75%">
+</p>
 
 ---
-## Exploratory Data Analysis
+
+## Customer Conversion Analysis
 
 <p align="center">
   <img src="03Images/monthly_conversion_rate.png" width="45%">
   <img src="03Images/job_conversion_rate.png" width="45%">
-</p>
-
-<p align="center">
-  <img src="03Images/education_conversion_rate.png" width="45%">
-  <img src="03Images/correlation_heatmap.png" width="45%">
 </p>
 
 ---
@@ -188,7 +155,7 @@ The processed dataset was imported into **Power BI** to create an interactive da
 
 <p align="center">
   <img src="03Images/age_distribution.png" width="45%">
-  <img src="03Images/job_distribution.png" width="45%">
+  <img src="03Images/education_conversion_rate.png" width="45%">
 </p>
 
 ---
@@ -197,60 +164,15 @@ The processed dataset was imported into **Power BI** to create an interactive da
 
 <p align="center">
   <img src="03Images/contact_conversion_rate.png" width="45%">
-  <img src="03Images/campaign_contacts_conversion_rate.png" width="45%">
-</p>
-
----
-
-## Contact Analysis
-
-<p align="center">
-  <img src="03Images/contact_method_distribution.png" width="45%">
-  <img src="03Images/call_duration_distribution.png" width="45%">
-</p>
-
----
-
-## Customer Financial Analysis
-
-<p align="center">
-  <img src="03Images/account_balance_distribution.png" width="45%">
-  <img src="03Images/average_balance_by_deposit.png" width="45%">
-</p>
-
----
-
-## Deposit Analysis
-
-<p align="center">
-  <img src="03Images/deposit_distribution.png" width="45%">
-  <img src="03Images/deposit_subscription.png" width="45%">
-</p>
-
----
-
-## Loan Analysis
-
-<p align="center">
-  <img src="03Images/housing_conversion_rate.png" width="45%">
-  <img src="03Images/personal_loan_conversion_rate.png" width="45%">
-</p>
-
----
-
-## Customer Behavior
-
-<p align="center">
   <img src="03Images/call_duration_vs_deposit.png" width="45%">
-  <img src="03Images/previous_outcome_conversion_rate.png" width="45%">
 </p>
 
 ---
 
-## Marital Status Analysis
+## Feature Correlation
 
 <p align="center">
-  <img src="03Images/marital_conversion_rate.png" width="45%">
+  <img src="03Images/correlation_heatmap.png" width="70%">
 </p>
 -----
 
