@@ -130,6 +130,15 @@ The dataset was cleaned using Python by:
 - Preparing the data for analysis
 
 ---
+# 📊 Dashboard & Analysis Preview
+
+## Power BI Dashboard
+
+<p align="center">
+  <img src="Marketing_funnel.png.png" width="90%">
+</p>
+
+---
 
 ## Step 3 — Exploratory Data Analysis (EDA)
 
