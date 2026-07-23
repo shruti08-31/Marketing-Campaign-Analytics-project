@@ -135,7 +135,7 @@ The dataset was cleaned using Python by:
 ## Power BI Dashboard
 
 <p align="center">
-  <img src="Marketing_funnel.png.png" width="90%">
+  <img src="Marketing_funnel.png" width="90%">
 </p>
 
 ---
