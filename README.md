@@ -133,15 +133,6 @@ The dataset was cleaned using Python by:
 
 ## Step 3 — Exploratory Data Analysis (EDA)
 
-
-## Marketing Funnel
-
-<p align="center">
-  <img src="03Images/marketing_funnel.png" width="75%">
-</p>
-
----
-
 ## Customer Conversion Analysis
 
 <p align="center">
