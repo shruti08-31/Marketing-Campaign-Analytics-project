@@ -167,13 +167,7 @@ The dataset was cleaned using Python by:
   <img src="03Images/call_duration_vs_deposit.png" width="45%">
 </p>
 
----
 
-## Feature Correlation
-
-<p align="center">
-  <img src="03Images/correlation_heatmap.png" width="70%">
-</p>
 -----
 
 # 📈 Key Insights
