@@ -41,8 +41,10 @@ In this project, the dataset was cleaned, explored, analyzed, and visualized to 
 
 # 📂 Repository Structure
 
-```
+```text
 Marketing-Campaign-Analytics
+│
+├── .gitattributes
 │
 ├── 01Dataset
 │   ├── bank.csv
@@ -56,18 +58,31 @@ Marketing-Campaign-Analytics
 │   └── Month_Conversion.csv
 │
 ├── 03Images
+│   ├── account_balance_distribution.png
+│   ├── age_distribution.png
+│   ├── average_balance_by_deposit.png
+│   ├── call_duration_distribution.png
+│   ├── call_duration_vs_deposit.png
+│   ├── campaign_contacts_conversion_rate.png
+│   ├── contact_conversion_rate.png
+│   ├── contact_method_distribution.png
+│   ├── correlation_heatmap.png
+│   ├── deposit_distribution.png
+│   ├── deposit_subscription.png
+│   ├── education_conversion_rate.png
+│   ├── housing_conversion_rate.png
+│   ├── job_conversion_rate.png
+│   ├── job_distribution.png
+│   ├── marital_conversion_rate.png
 │   ├── marketing_funnel.png
 │   ├── monthly_conversion_rate.png
-│   ├── job_conversion_rate.png
-│   ├── education_conversion_rate.png
-│   ├── correlation_heatmap.png
-│   └── ...
+│   ├── personal_loan_conversion_rate.png
+│   └── previous_outcome_conversion_rate.png
 │
 ├── Bank Marketing Dashboard.pbix
 ├── Marketing_Campaign_Analytics_Report.pdf
 └── README.md
 ```
-
 ---
 
 # 🔄 Project Workflow
@@ -155,30 +170,89 @@ The processed dataset was imported into **Power BI** to create an interactive da
 ![Marketing Funnel](Marketing_funnel.png)
 
 ---
+## Exploratory Data Analysis
 
-## Monthly Conversion Rate
+<p align="center">
+  <img src="03Images/monthly_conversion_rate.png" width="45%">
+  <img src="03Images/job_conversion_rate.png" width="45%">
+</p>
 
-![Monthly Conversion Rate](03Images/monthly_conversion_rate.png)
-
----
-
-## Job Conversion Rate
-
-![Job Conversion Rate](03Images/job_conversion_rate.png)
-
----
-
-## Education Conversion Rate
-
-![Education Conversion Rate](03Images/education_conversion_rate.png)
+<p align="center">
+  <img src="03Images/education_conversion_rate.png" width="45%">
+  <img src="03Images/correlation_heatmap.png" width="45%">
+</p>
 
 ---
 
-## Correlation Heatmap
+## Customer Demographics
 
-![Correlation Heatmap](03Images/correlation_heatmap.png)
+<p align="center">
+  <img src="03Images/age_distribution.png" width="45%">
+  <img src="03Images/job_distribution.png" width="45%">
+</p>
 
 ---
+
+## Campaign Performance
+
+<p align="center">
+  <img src="03Images/contact_conversion_rate.png" width="45%">
+  <img src="03Images/campaign_contacts_conversion_rate.png" width="45%">
+</p>
+
+---
+
+## Contact Analysis
+
+<p align="center">
+  <img src="03Images/contact_method_distribution.png" width="45%">
+  <img src="03Images/call_duration_distribution.png" width="45%">
+</p>
+
+---
+
+## Customer Financial Analysis
+
+<p align="center">
+  <img src="03Images/account_balance_distribution.png" width="45%">
+  <img src="03Images/average_balance_by_deposit.png" width="45%">
+</p>
+
+---
+
+## Deposit Analysis
+
+<p align="center">
+  <img src="03Images/deposit_distribution.png" width="45%">
+  <img src="03Images/deposit_subscription.png" width="45%">
+</p>
+
+---
+
+## Loan Analysis
+
+<p align="center">
+  <img src="03Images/housing_conversion_rate.png" width="45%">
+  <img src="03Images/personal_loan_conversion_rate.png" width="45%">
+</p>
+
+---
+
+## Customer Behavior
+
+<p align="center">
+  <img src="03Images/call_duration_vs_deposit.png" width="45%">
+  <img src="03Images/previous_outcome_conversion_rate.png" width="45%">
+</p>
+
+---
+
+## Marital Status Analysis
+
+<p align="center">
+  <img src="03Images/marital_conversion_rate.png" width="45%">
+</p>
+-----
 
 # 📈 Key Insights
 
